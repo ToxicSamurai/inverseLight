@@ -11,6 +11,7 @@ void setup() {
 void draw() {
   background(0);
 
+  //Test color to see how the for loop works
   color inverse = color(255, 102, 204);
 
   flashlightCircle();
@@ -25,6 +26,7 @@ void draw() {
 }
 
 void flashlightCircle() {
+  //The circle still follows the mouse, but is entirely transparent
   noStroke();
   noFill();
   //Area is 1963.49541 pixels
