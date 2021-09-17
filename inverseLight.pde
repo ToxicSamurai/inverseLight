@@ -1,5 +1,5 @@
 //By ToxicSamurai
-//You may freely use or edit
+//Licensed under Creative Commons CC-BY-NC-SA
 
 //Var for the radius of a circle
 int radius = 50;
